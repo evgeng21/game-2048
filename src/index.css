@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: #242424;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
